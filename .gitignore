@@ -1,5 +1,6 @@
-notebooks/SBAnational.csv
+model/SBAnational.csv
 API/app/__pycache__
+model/mlruns/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/django,linux,python,visualstudiocode

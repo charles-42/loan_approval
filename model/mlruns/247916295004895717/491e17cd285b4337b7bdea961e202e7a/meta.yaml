@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/charles/Documents/pythonProject/loan_approval/model/mlruns/247916295004895717/491e17cd285b4337b7bdea961e202e7a/artifacts
+end_time: 1675334792090
+entry_point_name: ''
+experiment_id: '247916295004895717'
+lifecycle_stage: active
+run_id: 491e17cd285b4337b7bdea961e202e7a
+run_name: learned-ram-386
+run_uuid: 491e17cd285b4337b7bdea961e202e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675334792066
+status: 4
+tags: []
+user_id: charles
