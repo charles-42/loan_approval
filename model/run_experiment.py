@@ -1,4 +1,7 @@
-def run_experiment(model,modele_type,confusion=False,mlflow_tracking=False):
+import mlflow
+
+
+def run_experiment(model,X_train, y_train, X_test, y_test, modele_type,confusion=False,mlflow_tracking=False):
     
     model.fit(X_train, y_train)
     y_pred_train = model.predict(X_train)
